@@ -4,7 +4,7 @@ Determining the number of retiring employees per title, to be prepared for the b
 
 ## Results:
 -  We can see that 72,458 employees were born between 1952 and 1955 and will be retired in the next few years.
--  36% the employees that were born between 1952 and 1955 are Senior Engineer (25,916 employees)
+-  36% of the employees that were born between 1952 and 1955 are Senior Engineer (25,916 employees)
 -  34% of the employees that were born between 1952 and 1955 are Senior Staff (24,926 employees) retiring_titles.png)
 ![retiring_titles.png)](Data/retiring_titles.png)
 - 1,549 employees were born in 1965 and eligible for the Mentorship Program.
